@@ -1,0 +1,9 @@
+C:\Users\HasKhan\Desktop\winTelefonDefteri\winTelefonDefteri\bin\Debug\winTelefonDefteri.exe.config
+C:\Users\HasKhan\Desktop\winTelefonDefteri\winTelefonDefteri\bin\Debug\winTelefonDefteri.exe
+C:\Users\HasKhan\Desktop\winTelefonDefteri\winTelefonDefteri\bin\Debug\winTelefonDefteri.pdb
+C:\Users\HasKhan\Desktop\winTelefonDefteri\winTelefonDefteri\obj\Debug\winTelefonDefteri.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\winTelefonDefteri\winTelefonDefteri\obj\Debug\winTelefonDefteri.Form1.resources
+C:\Users\HasKhan\Desktop\winTelefonDefteri\winTelefonDefteri\obj\Debug\winTelefonDefteri.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\winTelefonDefteri\winTelefonDefteri\obj\Debug\winTelefonDefteri.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\winTelefonDefteri\winTelefonDefteri\obj\Debug\winTelefonDefteri.exe
+C:\Users\HasKhan\Desktop\winTelefonDefteri\winTelefonDefteri\obj\Debug\winTelefonDefteri.pdb
